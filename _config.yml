@@ -1,0 +1,28 @@
+name: HEP
+favicon: null
+layout_spectrum: 0.12898863991722465
+typography_spectrum: 0.8195422398857772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.238948438083753
+  lightness: 0.266400741180405
+  saturation: 0.04028989630751312
+  rhythmicContrast: 0.37945126998238266
+purpose: []
